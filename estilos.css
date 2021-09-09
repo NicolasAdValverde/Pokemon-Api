@@ -16,8 +16,8 @@ body {
   width: 350px;
   border-radius: 16px;
   overflow: hidden;
-  -webkit-box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
-          box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+  -webkit-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+          box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
   margin: 50px auto;
   border: 1px solid black;
 }
